@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning ... to live
 - 💞️ I’m looking to collaborate on ... philosophical ways to say fuck you
 - 📫 How to reach me ... mail me at deathisimmortal69@gmail.com
+- tnt_100_Yes!
 
 <!---
 into-deepth/into-deepth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
