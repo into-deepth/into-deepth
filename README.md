@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @into-deepth
-- 👀 I’m interested in ... everything
-- 🌱 I’m currently learning ... to live
-- 💞️ I’m looking to collaborate on ... philosophical ways to say fuck you
-- 📫 How to reach me ... mail me at deathisimmortal69@gmail.com
+- 👀 I’m interested in ... Machinie Learning and Cloud Storage
+- 🌱 I’m currently learning ... Image Processing
+- 💞️ I’m looking to collaborate on ... Natural Language Processing
+- 📫 How to reach me ... mail me at deepetc2021@gmail.com
 
 <!---
 into-deepth/into-deepth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
